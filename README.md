@@ -8,3 +8,4 @@ repository.
 ![raglannewzealand](raglan_smaller.jpg)
 
 I like to surf here.
+It's where I first stood up on a wave!
