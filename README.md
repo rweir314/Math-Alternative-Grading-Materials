@@ -6,3 +6,5 @@ repository.
 
 # Raglan, New Zealand
 ![raglannewzealand](raglan_smaller.jpg)
+
+I like to surf here.
